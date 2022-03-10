@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mathias-Schneider
-- 👀 I’m interested in... learning to code
+- 👀 I’m interested in... bringing web projects to live
 - 🌱 I’m currently learning... Typescript
 - 💞️ I’m looking to collaborate... on great things coming up...
 - 📫 How to reach me ... LinkedIn, GitHub
