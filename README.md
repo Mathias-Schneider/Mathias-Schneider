@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mathias-Schneider
 - 👀 I’m interested in... learning to code
-- 🌱 I’m currently learning... HTML, CSS, Javascript
+- 🌱 I’m currently learning... Typescript
 - 💞️ I’m looking to collaborate... on great things coming up...
-- 📫 How to reach me ... when night falls
+- 📫 How to reach me ... LinkedIn, GitHub
 
 <!---
 Mathias-Schneider/Mathias-Schneider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
